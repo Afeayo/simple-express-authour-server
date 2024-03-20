@@ -1,0 +1,12 @@
+second semester Assignment 4 Answer
+# Author Management API
+
+This API provides endpoints to manage authors and their books.
+
+Routes and usage
+GET /api/authors: Get all authors.
+GET /api/authors/:id: Get author by ID.
+POST /api/authors: Create a new author.
+PUT /api/authors/:id: Update an existing author.
+DELETE /api/authors/:id: Delete an author.
+    
